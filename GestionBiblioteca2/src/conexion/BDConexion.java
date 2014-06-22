@@ -62,6 +62,7 @@ public class BDConexion {
 	    public static void main(String[] args) {
 	    	// YAYAYAYAYA UNA VES MAS
 	    	/// yoyo greis
+	    	// modificando
 			BDConexion bd = new BDConexion();
 			bd.conectar();
 			bd.nuevoUsuario(2324,"gre","",2345,"","","");
